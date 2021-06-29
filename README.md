@@ -5,3 +5,5 @@ The goal of this study was to develop a feedforward neuron network to classify s
 see extension.pdf 
 
 # Dataset Reference
+Mendis, B. S., Gedeon, T. D., & Koczy, L. T., 2005. Investigation of aggregation in fuzzy signatures, in Proceedings,
+3rd International Conference on Computational Intelligence, Robotics and Autonomous Systems, Singapore
